@@ -10,3 +10,8 @@ This project uses the SOIL image loader, freeglut, and glew.
 
 ## Release
 See the Releases section for a pre-built version for Windows.
+
+## Controls
+W,S,A,D    - Camera movement
+R,F        - Camera up/down movement
+Arrow Keys - Camera Rotation
